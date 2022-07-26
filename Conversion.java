@@ -1,8 +1,10 @@
 package phase1.project;
 
-public class Conversion {
+public class Conversion
+{
 
-	public static void main(String[] args) {
+	public static void main(String[] args)
+	{
 		
 					System.out.println("Type casting");
 					System.out.println(" Implicit type casting");
